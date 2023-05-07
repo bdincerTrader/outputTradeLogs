@@ -3,6 +3,8 @@ https://github.com/bdincerTrader/outputTradeLogs
 
 https://github.com/bdincerTrader/outputTradeLogs/commit/2cbd0451fc3acede72e72449a64032f8501bf03c#commitcomment-112277844
 
+![image](https://user-images.githubusercontent.com/127531384/236697063-7563668f-2bba-4b10-a267-6fdf3b7c9cd8.png)
+
 
 - range
 
