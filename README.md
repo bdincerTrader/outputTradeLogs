@@ -1,7 +1,12 @@
 ### THESE ARE BACKTEST FILES
 https://github.com/bdincerTrader/outputTradeLogs
 
+https://github.com/bdincerTrader/outputTradeLogs/commit/2cbd0451fc3acede72e72449a64032f8501bf03c#commitcomment-112277844
+
+
 - range
+
+
 https://github.com/bdincerTrader/outputTradeLogs/commit/2cbd0451fc3acede72e72449a64032f8501bf03c
 
 
