@@ -73,7 +73,8 @@ https://user-images.githubusercontent.com/127531384/236646893-ec36aa94-ad98-4649
 https://github.com/bdincerTrader/outputTradeLogs/blob/main/Reports/submission-table-data%20(19).csv
 		
 		
-# Q1: 2023 - 1MM @10000/unit
+Q1: 2023 - 1MM @10000/unit
+
 https://user-images.githubusercontent.com/127531384/236645485-b2722d29-1013-4143-b165-854b1919978d.png
 
 https://github.com/bdincerTrader/outputTradeLogs/blob/main/Reports/submission-table-data%20(18).csv
