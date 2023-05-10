@@ -1,6 +1,11 @@
 ### THESE ARE BACKTEST FILES
 https://github.com/bdincerTrader/outputTradeLogs
 
+
+## 100K/UNIT
+[submission-table-data (39).csv](https://github.com/bdincerTrader/outputTradeLogs/files/11441695/submission-table-data.39.csv)
+
+
 https://github.com/bdincerTrader/outputTradeLogs/commit/2cbd0451fc3acede72e72449a64032f8501bf03c#commitcomment-112277844
 
 ![image](https://user-images.githubusercontent.com/127531384/236715900-f58fd083-d1c3-4a6d-9e53-e549daada762.png)
