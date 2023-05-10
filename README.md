@@ -5,6 +5,12 @@ https://github.com/bdincerTrader/outputTradeLogs
 ## 100K/UNIT
 [submission-table-data (39).csv](https://github.com/bdincerTrader/outputTradeLogs/files/11441695/submission-table-data.39.csv)
 
+![image](https://github.com/bdincerTrader/outputTradeLogs/assets/127531384/4fd2094f-3925-489f-a023-8c9a5567183f)
+
+![image](https://github.com/bdincerTrader/outputTradeLogs/assets/127531384/1fcf4a4c-8555-4dd9-8b1d-ca4ade137589)
+
+
+
 
 https://github.com/bdincerTrader/outputTradeLogs/commit/2cbd0451fc3acede72e72449a64032f8501bf03c#commitcomment-112277844
 
