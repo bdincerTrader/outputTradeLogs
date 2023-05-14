@@ -1,6 +1,37 @@
 ### THESE ARE BACKTEST FILES
 https://github.com/bdincerTrader/outputTradeLogs
 
+# IN PROD
+  Sharpe 	 27.48</p>
+  Calmar 	386.45</p>
+  0.079391892	LOSS</p>
+  0.920608108	WIN</p>
+
+
+[switchbox4og - daily trade summary](https://github.com/bdincerTrader/outputTradeLogs/files/11472007/submission-table-data.45.csv)
+
+[switchbox4og - executions](https://github.com/bdincerTrader/outputTradeLogs/files/11472029/Trades.-.OG_PROD_BACKTEST.zip)
+
+![image](https://github.com/bdincerTrader/outputTradeLogs/assets/127531384/2f6fb705-c560-4339-9987-bd72200cf169)
+
+DAILY SUMMARY TABLE
+
+![image](https://github.com/bdincerTrader/outputTradeLogs/assets/127531384/d663339d-b650-4e3e-b5ba-abc6879c370b)
+
+
+
+# IN QA
+  Sharpe  	 37.75</p>
+  Calmar 	257.24</p>	
+  0.06250	LOSS</p>
+  0.93750	WIN</p>
+
+[QQ Henderson - daily trade summary](https://github.com/bdincerTrader/outputTradeLogs/files/11472025/submission-table-data.46.csv)
+
+
+![image](https://github.com/bdincerTrader/outputTradeLogs/assets/127531384/5c92b037-5ba5-4c37-9494-62812555bce2)
+
+![image](https://github.com/bdincerTrader/outputTradeLogs/assets/127531384/4e1a0a1e-a18c-4537-aa12-f70fcd4354d3)
 
 ## 100K/UNIT
 [submission-table-data (39).csv](https://github.com/bdincerTrader/outputTradeLogs/files/11441695/submission-table-data.39.csv)
