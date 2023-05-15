@@ -122,7 +122,19 @@ https://user-images.githubusercontent.com/127531384/236645485-b2722d29-1013-4143
 https://github.com/bdincerTrader/outputTradeLogs/blob/main/Reports/submission-table-data%20(18).csv
 
 
-ADDED NEW CONTROLS TO THE QA
+## NEW CONTROLS IN QA
+
+VERSION cffc8b41fec2
 
 ![image](https://github.com/bdincerTrader/outputTradeLogs/assets/127531384/cffc8b41-fec2-42b4-9e64-6ae4f8d627de)
+
+VERSION 815a1dd1aae2
+   
+![image](https://github.com/bdincerTrader/outputTradeLogs/assets/127531384/815a1dd1-aae2-4206-94e1-5bdb2733da80)
+
+VERSION 5fef3bef29cd
+
+![image](https://github.com/bdincerTrader/outputTradeLogs/assets/127531384/5fef3bef-29cd-4f25-ba7a-24d2cc772a89)
+
+
 
