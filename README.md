@@ -120,3 +120,9 @@ Q1: 2023 - 1MM @10000/unit
 https://user-images.githubusercontent.com/127531384/236645485-b2722d29-1013-4143-b165-854b1919978d.png
 
 https://github.com/bdincerTrader/outputTradeLogs/blob/main/Reports/submission-table-data%20(18).csv
+
+
+ADDED NEW CONTROLS TO THE QA
+
+![image](https://github.com/bdincerTrader/outputTradeLogs/assets/127531384/cffc8b41-fec2-42b4-9e64-6ae4f8d627de)
+
